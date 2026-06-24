@@ -36,7 +36,7 @@ Building reusable dialogue and storytelling systems for future game projects.
 - HTML
 - CSS
 - C#
-- -Java
+- Java
 
 ### Frameworks & Libraries
 - React
