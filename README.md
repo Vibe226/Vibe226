@@ -1,8 +1,8 @@
-# Hi, I'm Edwin 👋
+# Hi, I'm Edwin
 
 ## About Me
 
-I'm an aspiring Software Engineer and Computer Science student who enjoys building practical applications and learning new technologies.
+I'm an aspiring Software developer and Computer Science student who enjoys building practical applications and learning new technologies.
 
 My interests include:
 - Software Development
