@@ -66,7 +66,7 @@ Building reusable dialogue and storytelling systems for future game projects.
 
 ## Reach Me
 
-- Website: https://lnkd.in/e2tYErYV
+- Website: https://edwin-k-portfolio.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/edwin-kihiuria-bb431b287/
 - Email: edwink226@gmail.com
 
